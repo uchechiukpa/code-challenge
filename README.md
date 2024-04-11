@@ -1,6 +1,6 @@
 # CSV to Database Insertion Challenge
 
-An inventory company has contracted your company for a task: transferring 5,000 records from a CSV file into a database table.
+An Inventory company has contracted the company you work for and this task has been assigned to you, you have been given a CSV file containing 5,000 records to move to a table in the database.
 
 ## Objective
 
